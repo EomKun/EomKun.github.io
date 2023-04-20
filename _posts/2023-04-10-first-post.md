@@ -2,7 +2,7 @@
 layout: post
 title:  "첫 글 게시"
 
-categories: TIL makedown
+categories: makedown
 ---
 
 # 테스트 글입니다.
